@@ -38,6 +38,7 @@ pip install requirements.txt
 ```
 
 **Prerequisites:**
+
 You will have to create a replicate account: https://replicate.com/
 
 Go to your profile and collect your replicate token.
