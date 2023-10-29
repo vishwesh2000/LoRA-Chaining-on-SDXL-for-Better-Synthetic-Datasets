@@ -36,3 +36,8 @@ cd <new folder created>
 ```
 pip install requirements.txt
 ```
+
+**Run:**
+```
+streamlit run app.py
+```
