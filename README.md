@@ -25,6 +25,14 @@ Few common findings (Objects) observed from multiple images of Indian roads were
 The UI is built on streamlit (Easy rapid deployment).
 
 **Running the Application:**
-The github repo can be cloned on your local machine:
+The github repo can be cloned on your local machine in a new folder:
 [cmd]:
-```git clone https://github.com/vishwesh2000/LoRA-Chaining-on-SDXL-for-Better-Synthetic-Datasets```
+```
+git clone https://github.com/vishwesh2000/LoRA-Chaining-on-SDXL-for-Better-Synthetic-Datasets
+```
+```
+cd <new folder created>
+```
+```
+pip install requirements.txt
+```
