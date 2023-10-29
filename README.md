@@ -23,3 +23,8 @@ Few common findings (Objects) observed from multiple images of Indian roads were
 - Road constructions, etc...
 
 The UI is built on streamlit (Easy rapid deployment).
+
+**Running the Application:**
+The github repo can be cloned on your local machine:
+[cmd]:
+```git clone https://github.com/vishwesh2000/LoRA-Chaining-on-SDXL-for-Better-Synthetic-Datasets```
