@@ -39,8 +39,11 @@ pip install requirements.txt
 
 **Prerequisites:**
 You will have to create a replicate account: https://replicate.com/
+
 Go to your profile and collect your replicate token.
-Endpoint to update in the ```/.streamlit/secrets.toml``` file --> "shashankanil/sdxl-test:7fab3afbe2fdb77fe26e8af29511895499b2f27daa26b145d2178118a5972212"
+
+Endpoint to update in the ```/.streamlit/secrets.toml``` file 
+--> "shashankanil/sdxl-test:7fab3afbe2fdb77fe26e8af29511895499b2f27daa26b145d2178118a5972212"
 
 **Run:**
 ```
